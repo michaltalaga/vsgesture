@@ -13,9 +13,9 @@
     <Gesture GestureActionType="Down" ActionType="Command" GestureItemName="Goto.Last.Line" />
     <Gesture GestureActionType="Circle" ActionType="Command" GestureItemName="Build.BuildSelection" />
     <Gesture GestureActionType="DoubleCircle" ActionType="Command" GestureItemName="Build.BuildSolution" />
-    <Gesture GestureActionType="Right" ActionType="Action" GestureItemName="RightGestureExecuteCommand" />
+    <Gesture GestureActionType="Right" ActionType="Command" GestureItemName="View.NavigateForward" />
     <Gesture GestureActionType="UpRight" ActionType="Command" GestureItemName="Debug.Startnewinstance" />
     <Gesture GestureActionType="UpRightLong" ActionType="Command" GestureItemName="Debug.Startnewinstance" />
-    <Gesture GestureActionType="Left" ActionType="Action" GestureItemName="LeftGestureExecuteCommand" />
+    <Gesture GestureActionType="Left" ActionType="Command" GestureItemName="View.NavigateBackward" />
   </GestureActionMapper>
 </VSGestureInfo>

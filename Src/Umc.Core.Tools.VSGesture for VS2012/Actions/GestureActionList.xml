@@ -7,9 +7,9 @@
 	<GestureItem Name="Goto.Last.Line" Caption="Goto Last Line" Value="Edit.Goto" Argument="999999999"/>
 	<GestureItem Name="Build.BuildSelection" Caption="Build Selection" Value="Build.BuildSelection"/>
 	<GestureItem Name="Build.BuildSolution" Caption="Build Solution" Value="Build.BuildSolution"/>
-	<GestureItem Name="RightGestureExecuteCommand" Caption="Goto Next Document" Value="Umc.Core.Tools.VSGesture.Actions.RightGestureExecuteCommand"/>
+	<GestureItem Name="View.NavigateForward" Caption="Navigate Forward" Value="View.NavigateForward"/>
 	<GestureItem Name="Debug.Startnewinstance" Caption="Debug Start New Instance" Value="ClassViewContextMenus.ClassViewProject.Debug.Startnewinstance"/>
-	<GestureItem Name="LeftGestureExecuteCommand" Caption="Goto Previous Document" Value="Umc.Core.Tools.VSGesture.Actions.LeftGestureExecuteCommand"/>
+	<GestureItem Name="View.NavigateBackward" Caption="Navigate Backward" Value="View.NavigateBackward"/>
 	<GestureItem Name="Exit" Caption="Exit Visual Studio" Value="File.Exit"/>
 	
 </GestureActionList>
